@@ -134,12 +134,12 @@ This approach is more efficient for interconnected microservices. It is also ben
 
 [More information about Reactive Stack](https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/web-reactive.html)
 
-More features could be added such as retry with backoff or circuit-breaker.
+More features could be added such as retry with back-off or circuit-breaker.
 
 
 ## Running the application locally
 There are several ways to run a Spring Boot application on your local machine. 
-One way is to execute the main method in the com.example.london.LondonApplication class from your IDE.
+One way is to execute the main method in the com.example.fuelprices.FuelPricesApplication class from your IDE.
 - Download the zip or clone the Git repository via
 ```http request
     https://github.com/ASweilam/fuel-prices.git
